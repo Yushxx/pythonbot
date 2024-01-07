@@ -4,7 +4,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
 
 # Remplacez 'YOUR_BOT_TOKEN' par le token de votre bot Telegram
-updater = Updater(token='YOUR_BOT_TOKEN', use_context=True)
+updater = Updater(token='6351605119:AAF8qYVXGiETnetsLwJjqGKTm7qm56EauSo', use_context=True)
 dispatcher = updater.dispatcher
 
 def generate_sequence():
